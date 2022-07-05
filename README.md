@@ -1,3 +1,4 @@
 By Ferdinand Mukodo
-Vallie's Estate landing page
+A demo project of real estate website
+
 
